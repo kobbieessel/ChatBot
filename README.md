@@ -23,9 +23,9 @@ It listens to your speech, converts it to text, generates a response using the *
 
 voice_chatbot/
 |
-├── ChatBot.py 
-├── requirements.txt 
-└── README.md 
+-├── ChatBot.py 
+-├── requirements.txt 
+-└── README.md 
 
 
 
@@ -68,4 +68,5 @@ This project is licensed under the **MIT License** – feel free to use, share, 
 
 
 ---
+
 
