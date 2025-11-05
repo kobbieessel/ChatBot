@@ -24,6 +24,9 @@ voice_chatbot/
 ├── requirements.txt 
 └── README.md 
 
+
+
+
 ---
 
 ## How It Works
@@ -59,5 +62,6 @@ pip install -r requirements.txt
 ## License
 
 This project is licensed under the **MIT License** – feel free to use, share, and modify it.
+
 
 ---
