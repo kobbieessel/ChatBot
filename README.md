@@ -1,6 +1,6 @@
 # Voice Interactive Chatbot (Powered by Ollama + Speech Recognition)
 
-This project is a **voice-controlled chatbot** that allows you to have natural spoken conversations with an AI model locally using [Ollama](https://ollama.ai).  
+This project is a **voice-controlled chatbot** that enables natural spoken conversations with an AI model locally, using [Ollama](https://ollama.ai).  
 It listens to your speech, converts it to text, generates a response using the **LLaMA 2** model, and speaks the response back to you using **text-to-speech**.
 
 ---
@@ -13,22 +13,6 @@ It listens to your speech, converts it to text, generates a response using the *
 - **Voice Filtering:** Detects and blocks inappropriate language.  
 - **Voice Commands:** Say **"exit"** anytime to quit the chatbot.  
 - **Customizable Voice Settings:** Choose speaking rate and voice tone.
-
----
-
-##  Project Structure
-
-
-
-
-voice_chatbot/
-|
--├── ChatBot.py 
--├── requirements.txt 
--└── README.md 
-
-
-
 
 ---
 
@@ -47,7 +31,7 @@ voice_chatbot/
 
 ## Requirements
 
-Make sure you have **Python 3.8+** installed.
+Ensure you have **Python 3.8 or later** installed.
 
 ### Install dependencies
 ```bash
@@ -68,5 +52,6 @@ This project is licensed under the **MIT License** – feel free to use, share, 
 
 
 ---
+
 
 
