@@ -44,8 +44,8 @@ pip install -r requirements.txt
 **Kwabena Amoako**  
 
 Embedded Systems | Hardware & Firmware | Robotics
-📫 Connect on [GitHub](https://github.com/kobbieessel)  
-💼 Passionate about AI, embedded systems, and automation projects.
+- Connect on [GitHub](https://github.com/kobbieessel)  
+- Passionate about AI, embedded systems, and automation projects.
 
 Social:
 [LinkedIn](https://www.linkedin.com/in/kwabena-e-amoako/)
@@ -58,6 +58,7 @@ This project is licensed under the **MIT License** – feel free to use, share, 
 
 
 ---
+
 
 
 
