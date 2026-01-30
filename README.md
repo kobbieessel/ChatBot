@@ -38,14 +38,18 @@ Ensure you have **Python 3.8 or later** installed.
 pip install -r requirements.txt
 ```
 ---
-## Author
-**Kwabena Amoako**  
-Embedded Systems | Hardware & Firmware | Robotics
 
+## Author
+
+**Kwabena Amoako**  
+
+Embedded Systems | Hardware & Firmware | Robotics
 📫 Connect on [GitHub](https://github.com/kobbieessel)  
 💼 Passionate about AI, embedded systems, and automation projects.
+
 Social:
 [LinkedIn](https://www.linkedin.com/in/kwabena-e-amoako/)
+
 ---
 
 ## License
@@ -54,6 +58,7 @@ This project is licensed under the **MIT License** – feel free to use, share, 
 
 
 ---
+
 
 
 
